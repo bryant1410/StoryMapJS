@@ -1,4 +1,4 @@
-#Using Zoomify
+# Using Zoomify
 
 There are many ways to export your images into tiles for Gigapixel, but the simplest way is to use PhotoShop.
 
